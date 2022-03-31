@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Learn Ruby on Rails - Full Course:
 
-Things you may want to cover:
+https://youtu.be/fmyvWz5TUWg
 
-* Ruby version
+* Ruby version: 2.7.0
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails version: 7.0.2.3
